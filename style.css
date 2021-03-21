@@ -1,0 +1,246 @@
+/*Body*/
+body{
+   margin: 0px;
+   padding: 0px;
+   font-weight: bold;
+   font-family: 'Josefin Sans', sans-serif;
+   /*overflow-x:hidden;*/
+   background-color: #F9F7F7;
+}
+/*Heading*/
+.headingImage{
+    float: none;
+    position: absolute;
+    top: -10%;
+    left: 40%;
+    width: 17%;
+    z-index: 1;
+}
+.headingImage2{
+    width: 10%;
+    float: none;
+    position: absolute;
+    top: -8%;
+    left: 43.5%;
+    z-index: 1;
+    border-radius: 100%;
+}
+.heading{
+    width: 25%;
+    font-size: 1.5rem;
+    font: 1em;
+    color: rgb(255, 255, 255);
+    margin-left: 35px;
+}
+/*Navigation*/
+.bg-primary{
+    background-color: #DBE2EF;
+}
+.bg-secondary{
+    background-color: #3F72AF;
+}
+.navbar{
+    padding: 0px;
+
+}
+.drop-4{
+    float: none;
+    position: absolute;
+    left: 80%;
+}
+.drop-2{
+    float: none;
+    position: absolute;
+    left: 19%;
+}
+.drop-3{
+    float: none;
+    position: absolute;
+    left: 63%;
+}
+.drop-1{
+    position: relative;
+    margin-left: 13px;
+}
+.float{
+    
+    position: relative;
+    margin-left: 24%;
+
+}
+.topNav{
+     margin-left: 42%;
+}
+.navCol{
+    background-color: #343a40;
+    
+}
+.navFont{
+    color: white;
+    font-size: 1rem;
+    
+}
+
+/*covid-19*/
+.covid{
+    text-decoration: none;
+    font-size: 1.2rem;
+    font: 1em sans-serif;
+    color:rgb(0, 0, 0);
+}
+/*Choice*/
+.choice
+{
+    padding: 3% 2% 5% 2%;
+    text-align: center;
+}
+.btn{
+    margin-top: 6%;
+    width: 90%;
+    height: 90%;
+}
+.row{
+    margin-top: 4%;
+}
+/*Subject*/
+.sub-row{
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-bottom: 10%;
+}
+.sub-head{
+    text-align: center;
+}
+/*Youtube Video*/
+.videoDiv{
+
+    
+   
+    padding: 7% 5%;
+    
+
+}
+#video{
+    background:url('heritage.jpg');
+    background-attachment: fixed;
+    background-size: contain;
+    
+}
+
+/*Footer*/
+#Footer{
+    padding: 0% 22%;
+    
+}
+.card-header {
+    padding: 0rem 1.25rem;
+}
+ /* Blue color in overview headings */
+.content-area h3 {
+    color: #312f93!important;
+}
+
+/* Background with banner (Overview) */
+.headingDiv-overview{
+    background-image: url("inner-banner.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+}
+
+
+.headingText-overview{
+    padding: 10%;
+    font-size: 4rem;
+    font-family: cursive;
+    margin: 0;
+}
+.paraHeading{
+    font-size: 1rem;
+    font-family: cursive;
+    margin: 0;
+    margin-left: 8%;
+}
+
+/* Background with banner (Contact) */
+.headingDiv-contact{
+    background-image: url("Heritage_Inside_Image_Contact.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+}
+
+
+.headingText-contact{
+    padding: 10%;
+    font-size: 4rem;
+    font-family: cursive;
+    margin: 0;
+}
+.paraHeading{
+    font-size: 1rem;
+    font-family: cursive;
+    margin: 0;
+    margin-left: 8%;
+}
+
+/* Background with banner (Event) */
+.headingDiv-events{
+    background-image: url("Heritage_Inside_Image_STUDENT-ACTIVITIES.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+}
+
+
+.headingText-events{
+    padding: 10%;
+    font-size: 4rem;
+    font-family: cursive;
+    margin: 0;
+}
+.paraHeading{
+    font-size: 1rem;
+    font-family: cursive;
+    margin: 0;
+    margin-left: 8%;
+}
+
+/* Background with banner (Management and Event) */
+.headingDiv-management{
+    background-image: url("Heritage_Inside_Image_Management_and_Staff.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+}
+
+
+.headingText-management{
+    padding: 10%;
+    font-size: 4rem;
+    font-family: cursive;
+    margin: 0;
+}
+.paraHeading{
+    font-size: 1rem;
+    font-family: cursive;
+    margin: 0;
+    margin-left: 8%;
+}
+
+/* Background with banner (Affiliation) */
+.headingDiv-affiliation{
+    background-image: url("Heritage_Inside_Accredition-and-Affiliation.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+}
+
+
+.headingText-affiliation{
+    padding: 10%;
+    font-size: 4rem;
+    font-family: cursive;
+    margin: 0;
+}
+.paraHeading{
+    font-size: 1rem;
+    font-family: cursive;
+    margin: 0;
+    margin-left: 8%;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+
+.headingDiv{
+    background-image: url("sports.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+}
+.headingText{
+    padding: 10%;
+    font-size: 4rem;
+    font-family: cursive;
+    margin: 0;
+}
+.paraHeading{
+    font-size: 1rem;
+    font-family: cursive;
+    margin: 0;
+    margin-left: 8%;
+}
