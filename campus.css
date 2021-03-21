@@ -1,0 +1,85 @@
+body{
+   margin: 0px;
+   padding: 0px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   /*overflow-x:hidden;*/
+}
+/*Heading*/
+.headingImage{
+    float: none;
+    position: absolute;
+    top: -10%;
+    left: 40%;
+    width: 17%;
+    z-index: 1;
+}
+.headingImage2{
+    width: 10%;
+    float: none;
+    position: absolute;
+    top: -8%;
+    left: 43.5%;
+    z-index: 1;
+    border-radius: 100%;
+}
+.heading{
+    width: 25%;
+    font-size: 1.5rem;
+    font: 1em;
+    color: darkblue;
+    margin-left: 35px;
+}
+/*Navigation*/
+.navbar{
+    padding: 0px;
+}
+.drop-4{
+    float: none;
+    position: absolute;
+    left: 80%;
+}
+.drop-2{
+    float: none;
+    position: absolute;
+    left: 19%;
+}
+.drop-3{
+    float: none;
+    position: absolute;
+    left: 63%;
+}
+.drop-1{
+    position: relative;
+    margin-left: 13px;
+}
+.float{
+    
+    position: relative;
+    margin-left: 24%;
+
+}
+.topNav{
+     margin-left: 42%;
+}
+.navCol{
+    background-color: #343a40;
+    
+}
+.navFont{
+    color: white;
+    font-size: 1rem;
+    
+}
+
+
+/*Career*/
+.careertext{
+    padding: 2% 10% 0 10%;
+
+}
+.careerheading{
+    padding-left:10%;
+}
+.card{
+    width:100%;
+}
